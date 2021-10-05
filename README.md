@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=gradient&text=Changsu&nbsp;PARK&fontSize=60&animation=blinking&fontAlignY=38)
  
-  <h3>👋Hi there,</h3>
+  <h3>👋 Hi there,</h3>
   <p>I'm Changsu PARK, a front-end developer. 🍀 <br> Daily routine ☕️🧑‍💻🏃🍻🧑‍💻</p>
   
   <br>
