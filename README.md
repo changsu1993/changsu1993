@@ -28,7 +28,7 @@
   
   <h3>✨Github State✨</h3>
   
-  ![changsu1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=changsu1993&show_icons=true&count_private=true&theme=gruvbox)
+//
   
   <br>
   
