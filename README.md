@@ -6,7 +6,7 @@
   프론트엔드 개발자 박창수 입니다.
  </h4>
 
- <div style={{display: 'flex'}}>
+ <div style={{display: 'inline'}}>
   
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changsu1993&layout=compact&theme=dark)
  
