@@ -7,9 +7,22 @@
   프론트엔드 개발자 박창수 입니다.
  </h4>
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changsu1993&layout=compact&theme=dark)
- 
- ![changsu1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=changsu1993&show_icons=true&theme=dark&hide=stars,contribs&count_private=true) 
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=changsu1993&show_icons=true&theme=dark&hide=stars,contribs&count_private=true&hide_border=true&locale=ko&cache_seconds=86400"
+          height="180" alt="GitHub Stats"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=changsu1993&layout=compact&theme=dark&hide_border=true&locale=ko&cache_seconds=86400"
+          height="180" alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
 
  ![](./profile-3d-contrib/profile-gitblock.svg)
 
