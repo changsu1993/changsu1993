@@ -5,12 +5,8 @@
   <br/>
   프론트엔드 개발자 박창수 입니다.
  </h4>
-
- ![changsu1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=changsu1993&show_icons=true&theme=dark&hide=stars,contribs&count_private=true) 
- 
- <br/>
- 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changsu1993&layout=compact&theme=dark)
- 
+ <br/>
+ ![changsu1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=changsu1993&show_icons=true&theme=dark&hide=stars,contribs&count_private=true) 
   <h3>업데이트 중</h3> 
 </div>
