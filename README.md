@@ -2,8 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=gradient&text=Changsu&nbsp;PARK&fontSize=60&animation=blinking&fontAlignY=38)
  
-  <h3>👋 Hi there,</h3>
-  <p>I'm Changsu PARK, a front-end developer. 🍀 <br> Daily routine ☕️🧑‍💻🏃🍻🧑‍💻</p>
+  <h3>업데이트 중</h3>
   
   <br>
   
@@ -14,15 +13,7 @@
   <img alt="Sass" src ="https://img.shields.io/badge/Sass-cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/> &nbsp;&nbsp;
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> &nbsp;&nbsp;
   <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178c6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> <br>
-  
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="React Router" src ="https://img.shields.io/badge/React Router-CA4245.svg?&style=for-the-badge&logo=React Router&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/> <br>
-  
-  <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Trello" src ="https://img.shields.io/badge/Trello-0052cc.svg?&style=for-the-badge&logo=Trello&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
   
   <br>
   
