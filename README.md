@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F7D407&width=435&lines=%EC%96%B4%EB%A0%A4%EC%9B%80%EC%9D%80+%EC%9E%88%EC%96%B4%EB%8F%84+%EC%95%88+%EB%90%98%EB%8A%94+%EA%B1%B4+%EC%97%86%EB%8B%A4.)](https://git.io/typing-svg)
+
 <div>
  <h4>안녕하세요.
   <br/>
