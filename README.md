@@ -1,4 +1,4 @@
-<div align=center>
+<div>
   
   ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=gradient&text=Changsu&nbsp;PARK&fontSize=60&animation=blinking&fontAlignY=38)
  
