@@ -8,6 +8,7 @@
  </h3>
 
  [![box](https://markdown-box-generator.vercel.app/api/box?title=성장의_아이콘&author=박창수&date=2020-6-12&style=TISTORY)](https://su1993.tistory.com/)
+ [![box](https://markdown-box-generator.vercel.app/api/box?title=jekyll_개발블로그&author=박창수&date=2025-11-01&style=DEFAULT)](https://changsu1993.github.io/)
 
  <h4>📚 STACKS</h4>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/expo-000000.svg?&style=for-the-badge&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/react%20native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
