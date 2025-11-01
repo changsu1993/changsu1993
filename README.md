@@ -8,7 +8,15 @@
  </h4>
 
  [![box](https://markdown-box-generator.vercel.app/api/box?title=성장의_아이콘&author=박창수&date=2020-6-12&style=TISTORY)](https://su1993.tistory.com/)
-  
+
+ <h4>📚 STACKS</h4>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/expo-000000.svg?&style=for-the-badge&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/react%20native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" /> <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" /> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" /> <img src="https://img.shields.io/badge/Jotai-FFFFFF?style=for-the-badge&logo=jotai&logoColor=000000" alt="Jotai" />
+  <br/>
+  <br/>
   <table>
     <tr>
       <td>
