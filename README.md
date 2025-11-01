@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chiron+Sung+HK&weight=700&pause=1000&color=F7D407&width=435&lines=%EC%96%B4%EB%A0%A4%EC%9B%80%EC%9D%80+%EC%9E%88%EC%96%B4%EB%8F%84+%EC%95%88+%EB%90%98%EB%8A%94+%EA%B1%B4+%EC%97%86%EB%8B%A4.)](https://git.io/typing-svg)
 <div>
- <h4>안녕하세요.
+ <h3>안녕하세요.
   <br/>
   어려움은 있어도 안 되는 건 없다고 생각하며 개발하는
   <br/>
   프론트엔드 개발자 박창수 입니다.
- </h4>
+ </h3>
 
  [![box](https://markdown-box-generator.vercel.app/api/box?title=성장의_아이콘&author=박창수&date=2020-6-12&style=TISTORY)](https://su1993.tistory.com/)
 
