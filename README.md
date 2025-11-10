@@ -7,7 +7,6 @@
   프론트엔드 개발자 박창수 입니다.
  </h3>
 
- [![box](https://markdown-box-generator.vercel.app/api/box?title=성장의_아이콘&author=박창수&date=2020-6-12&style=TISTORY)](https://su1993.tistory.com/)
  [![box](https://markdown-box-generator.vercel.app/api/box?title=jekyll_개발블로그&author=박창수&date=2025-11-01&style=DEFAULT)](https://changsu1993.github.io/)
 
  <h4>📚 STACKS</h4>
